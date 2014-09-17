@@ -1,0 +1,7 @@
+{
+    "bootsgtrap-gallery-popover": {
+        "use": [
+            "gallery-bootstrap-tooltip"
+        ]
+    }
+}

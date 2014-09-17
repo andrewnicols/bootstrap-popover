@@ -1,0 +1,10 @@
+{
+    "name": "gallery-bootstrap-popover",
+    "builds": {
+        "gallery-bootstrap-popover": {
+            "jsfiles": [
+                "bootstrap-popover.js"
+            ]
+        }
+    }
+}
